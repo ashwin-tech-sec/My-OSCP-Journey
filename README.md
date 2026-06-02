@@ -16,9 +16,8 @@ Let's get to work.
 
 ---
 
-📋 **[My Methodology Checklist](CHECKLIST.md)** — what I run on every box
-🔬 **CVE Writeups** — deep-dives on vulnerabilities I meet along the way *(coming soon)*
-
+📋 **[My Methodology Checklist](CHECKLIST.md)** — what I run on every box</br>
+🔬 **[Vulnerability Writeups](https://github.com/ashwin-tech-sec/Cybersecurity-Writeups)** —  explorations of web security, AppSec concepts, and vulnerability research
 ---
 
 ## 📦 Boxes
