@@ -23,7 +23,7 @@ Let's get to work.
 ## 📦 Boxes
 
 | # | Box | Platform | OS | Difficulty | Status | Date |
-|---|-----|----------|-----|-----------|--------|------|
-| | | | | | | |
+| --- | --- | -------- | --- | ---------- | ------ | ---- |
+| 1 | [Sea](writeups/Sea.md) | HackTheBox | Linux | Easy | ✅ Owned | June 6, 2026 |
 
 <!-- Add a new row for each box. Status: ✅ Rooted / 🟡 User / ❌ Stuck -->
