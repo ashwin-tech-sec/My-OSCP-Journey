@@ -24,6 +24,7 @@ Let's get to work.
 
 | # | Box | Platform | OS | Difficulty | Status | Date |
 | --- | --- | -------- | --- | ---------- | ------ | ---- |
-| 1 | [Sea](writeups/Sea.md) | HackTheBox | Linux | Easy | ✅ Owned | June 6, 2026 |
+| 1 | [Sea](writeups/Sea.md) | HackTheBox | Linux | Easy | ✅ Owned | June 7, 2026 |
+| 2 | [Knife](writeups/Knife.md) | HackTheBox | Linux | Easy | ✅ Owned | June 9, 2026 |
 
 <!-- Add a new row for each box. Status: ✅ Rooted / 🟡 User / ❌ Stuck -->
