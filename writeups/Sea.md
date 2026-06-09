@@ -40,7 +40,7 @@ Nmap done: 1 IP address (1 host up) scanned in 23.90 seconds
 <img width="886" height="326" alt="image" src="https://github.com/user-attachments/assets/e593daf4-c4cd-4e36-b3ae-1ef1c9cf75cd" />
 
 ```
-nmap -sC -sV -Pn 10.129.12.155 -oA Sea_Scan_Detailed
+nmap -sC -sV -Pn 10.129.12.155 -p22,80 -oA Sea_Scan_Detailed
 
 Starting Nmap 7.98 ( https://nmap.org ) at 2026-06-07 10:56 +0100
 Nmap scan report for 10.129.12.151
