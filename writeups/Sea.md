@@ -1,6 +1,6 @@
 # Sea — Easy — Linux
 
-**Date:** 6 June 2026
+**Date:** 7 June 2026
 
 ---
 
@@ -42,15 +42,21 @@ Nmap done: 1 IP address (1 host up) scanned in 23.90 seconds
 ```
 nmap -sC -sV -Pn 10.129.12.155 -p22,80 -oA Sea_Scan_Detailed
 
-Starting Nmap 7.98 ( https://nmap.org ) at 2026-06-07 10:56 +0100
+Starting Nmap 7.98 ( https://nmap.org ) at 2026-06-07 10:59 +0100
 Nmap scan report for 10.129.12.151
-Host is up (0.027s latency).
-Not shown: 65533 closed tcp ports (reset)
-PORT   STATE SERVICE
-22/tcp open  ssh
-80/tcp open  http
+Host is up (0.015s latency).
 
-Nmap done: 1 IP address (1 host up) scanned in 23.90 seconds
+PORT   STATE SERVICE VERSION
+22/tcp open  ssh     OpenSSH 8.2p1 Ubuntu 4ubuntu0.11 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey:
+|   3072 e3:54:e0:72:20:3c:01:42:93:d1:66:9d:90:0c:ab:e8 (RSA)
+|   256 f3:24:4b:08:aa:51:9d:56:15:3d:67:56:74:7c:20:38 (ECDSA)
+|_  256 30:b1:05:c6:41:50:ff:22:a3:7f:41:06:0e:67:fd:50 (ED25519)
+80/tcp open  http    Apache httpd 2.4.41
+Service Info: Host: sea.htb; OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 88.66 seconds
 ```
 
 <img width="1216" height="460" alt="image" src="https://github.com/user-attachments/assets/0b505ba1-0e99-4b6b-8613-5755999962d7" />
