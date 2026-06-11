@@ -6,7 +6,7 @@
 
 This repo is my record of the road to OSCP.
 
-I'm keeping it for two reasons. The first is accountability — putting this out in public means I've committed, and every box I add below is proof I showed up and did the work. The second is for my future self: a place to look back on once I've earned the cert and remember exactly where I started, what I struggled with, and how far I came.
+I'm keeping it for two reasons. The first is accountability putting this out in public means I've committed, and every box I add below is proof I showed up and did the work. The second is for my future self: a place to look back on once I've earned the cert and remember exactly where I started, what I struggled with, and how far I came.
 
 Right now this page is empty. That's the point. It fills up one box at a time, and watching it grow is the whole story.
 
@@ -26,5 +26,6 @@ Let's get to work.
 | --- | --- | -------- | --- | ---------- | ------ | ---- |
 | 1 | [Sea](writeups/Sea.md) | HackTheBox | Linux | Easy | ✅ Owned | June 7, 2026 |
 | 2 | [Knife](writeups/Knife.md) | HackTheBox | Linux | Easy | ✅ Owned | June 9, 2026 |
+| 3 | [Keeper](writeups/Keeper.md) | HackTheBox | Linux | Easy | ✅ Owned | June 10, 2026 |
 
 <!-- Add a new row for each box. Status: ✅ Rooted / 🟡 User / ❌ Stuck -->
