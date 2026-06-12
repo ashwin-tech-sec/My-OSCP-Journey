@@ -26,5 +26,6 @@ Let's get to work.
 | 2 | [Knife](writeups/Knife.md) | HackTheBox | Linux | Easy | ✅ Owned | June 9, 2026 |
 | 3 | [Keeper](writeups/Keeper.md) | HackTheBox | Linux | Easy | ✅ Owned | June 10, 2026 |
 | 4 | [Jerry](writeups/Jerry.md) | HackTheBox | Windows | Easy | ✅ Owned | June 11, 2026 |
+| 5 | [Busqueda](writeups/Busqueda.md) | HackTheBox | Linux | Easy | ✅ Owned | June 12, 2026 |
 
 <!-- Add a new row for each box. Status: ✅ Rooted / 🟡 User / ❌ Stuck -->
