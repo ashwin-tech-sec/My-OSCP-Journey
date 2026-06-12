@@ -15,8 +15,6 @@ If you're walking the same path, follow along. If you've already done it, I'd we
 Let's get to work.
 
 ---
-
-📋 **[My Methodology Checklist](CHECKLIST.md)** — what I run on every box</br>
 🔬 **[Vulnerability Writeups](https://github.com/ashwin-tech-sec/Cybersecurity-Writeups)** —  explorations of web security, AppSec concepts, and vulnerability research
 ---
 
@@ -27,5 +25,6 @@ Let's get to work.
 | 1 | [Sea](writeups/Sea.md) | HackTheBox | Linux | Easy | ✅ Owned | June 7, 2026 |
 | 2 | [Knife](writeups/Knife.md) | HackTheBox | Linux | Easy | ✅ Owned | June 9, 2026 |
 | 3 | [Keeper](writeups/Keeper.md) | HackTheBox | Linux | Easy | ✅ Owned | June 10, 2026 |
+| 4 | [Jerry](writeups/Jerry.md) | HackTheBox | Windows | Easy | ✅ Owned | June 11, 2026 |
 
 <!-- Add a new row for each box. Status: ✅ Rooted / 🟡 User / ❌ Stuck -->
