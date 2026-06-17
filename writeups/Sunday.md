@@ -1,6 +1,6 @@
 # Sunday — Easy — Solaris
 
-**Date:** 16 June 2026
+**Date:** 17 June 2026
 
 ---
 
