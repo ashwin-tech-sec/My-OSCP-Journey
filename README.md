@@ -8,7 +8,7 @@ This repo is my record of the road to OSCP.
 
 I'm keeping it for two reasons. The first is accountability putting this out in public means I've committed, and every box I add below is proof I showed up and did the work. The second is for my future self: a place to look back on once I've earned the cert and remember exactly where I started, what I struggled with, and how far I came.
 
-Right now this page is empty. That's the point. It fills up one box at a time, and watching it grow is the whole story.
+**8 owned** · 4 Linux · 3 Windows · 1 Solaris
 
 If you're walking the same path, follow along. If you've already done it, I'd welcome the advice.
 
