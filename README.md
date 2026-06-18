@@ -29,4 +29,4 @@ Let's get to work.
 | 5 | [Busqueda](writeups/Busqueda.md) | HackTheBox | Linux | Easy | ✅ Owned | June 12, 2026 |
 | 6 | [Netmon](writeups/Netmon.md) | HackTheBox | Windows | Easy | ✅ Owned | June 16, 2026 |
 | 7 | [Sunday](writeups/Sunday.md) | HackTheBox | Solaris | Easy | ✅ Owned | June 17, 2026 |
-
+| 8 | [Servmon](writeups/Servmon.md) | HackTheBox | Windows | Easy | ✅ Owned | June 18, 2026 |
