@@ -8,7 +8,7 @@ This repo is my record of the road to OSCP.
 
 I'm keeping it for two reasons. The first is accountability putting this out in public means I've committed, and every box I add below is proof I showed up and did the work. The second is for my future self: a place to look back on once I've earned the cert and remember exactly where I started, what I struggled with, and how far I came.
 
-**9 owned** · 5 Linux · 3 Windows · 1 Solaris
+**10 owned** · 5 Linux · 4 Windows · 1 Solaris
 
 If you're walking the same path, follow along. If you've already done it, I'd welcome the advice.
 
@@ -31,3 +31,4 @@ Let's get to work.
 | 7 | [Sunday](writeups/Sunday.md) | HackTheBox | Solaris | Easy | ✅ Owned | June 17, 2026 |
 | 8 | [Servmon](writeups/Servmon.md) | HackTheBox | Windows | Easy | ✅ Owned | June 18, 2026 |
 | 9 | [Codify](writeups/Codify.md) | HackTheBox | Linux | Easy | ✅ Owned | June 23, 2026 |
+| 10 | [Bounty](writeups/Bounty.md) | HackTheBox | Windows | Easy | ✅ Owned | June 24, 2026 |
