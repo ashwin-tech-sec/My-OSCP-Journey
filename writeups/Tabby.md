@@ -219,6 +219,7 @@ RESULT:
 - Built/imported the image, created a privileged container mounting host / at /mnt/root, and read
   root.txt (and root's SSH key) from the mounted filesystem
 ```
+> **Note:** the HackTricks URL for priv esc is https://hacktricks.wiki/en/network-services-pentesting/pentesting-web/tomcat/index.html
 
 <img width="1110" height="970" alt="image" src="https://github.com/user-attachments/assets/07e232e7-537e-4af2-bf42-dd64080cbb0a" />
 
