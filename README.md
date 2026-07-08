@@ -8,7 +8,7 @@ This repo is my record of the road to OSCP.
 
 I'm keeping it for two reasons. The first is accountability putting this out in public means I've committed, and every box I add below is proof I showed up and did the work. The second is for my future self: a place to look back on once I've earned the cert and remember exactly where I started, what I struggled with, and how far I came.
 
-**12 owned** · 6 Linux · 5 Windows · 1 Solaris
+**13 owned** · 7 Linux · 5 Windows · 1 Solaris
 
 If you're walking the same path, follow along. If you've already done it, I'd welcome the advice.
 
@@ -34,3 +34,4 @@ Let's get to work.
 | 10 | [Bounty](writeups/Bounty.md) | HackTheBox | Windows | Easy | ✅ Owned | June 24, 2026 |
 | 11 | [Tabby](writeups/Tabby.md) | HackTheBox | Linux | Easy | ✅ Owned | July 1, 2026 |
 | 12 | [Arctic](writeups/Arctic.md) | HackTheBox | Windows | Easy | ✅ Owned | July 3, 2026 |
+| 13 | [Usage](writeups/Usage.md) | HackTheBox | Linux | Easy | ✅ Owned | July 8, 2026 |
