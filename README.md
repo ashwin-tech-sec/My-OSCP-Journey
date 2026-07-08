@@ -6,19 +6,27 @@
 
 This repo is my record of the road to OSCP.
 
-I'm keeping it for two reasons. The first is accountability putting this out in public means I've committed, and every box I add below is proof I showed up and did the work. The second is for my future self: a place to look back on once I've earned the cert and remember exactly where I started, what I struggled with, and how far I came.
+I'm keeping it for two reasons. The first is accountability, putting this out in public means I've committed, and every box I add below is proof I showed up and did the work. The second is for my future self: a place to look back on once I've earned the cert and remember exactly where I started, what I struggled with, and how far I came.
 
-**13 owned** · 7 Linux · 5 Windows · 1 Solaris
+It started empty. That was the point, it fills up one box at a time, and watching it grow is the whole story. Every row below is a machine I've owned end to end, with a full writeup of how I got user and root.
 
 If you're walking the same path, follow along. If you've already done it, I'd welcome the advice.
 
 Let's get to work.
 
 ---
-🔬 **[Vulnerability Writeups](https://github.com/ashwin-tech-sec/Cybersecurity-Writeups)** —  explorations of web security, AppSec concepts, and vulnerability research
+
+## 🔬 Vulnerability Writeups
+
+Alongside the boxes, I write up the vulnerabilities themselves, explorations of web security, AppSec concepts, and vulnerability research. Those live in a separate repo:
+
+➡️ **[Cybersecurity-Writeups](https://github.com/ashwin-tech-sec/Cybersecurity-Writeups)**
+
 ---
 
 ## 📦 Boxes
+
+**13 owned** · 7 Linux · 5 Windows · 1 Solaris · all HackTheBox · all Easy
 
 | # | Box | Platform | OS | Difficulty | Status | Date |
 | --- | --- | -------- | --- | ---------- | ------ | ---- |
