@@ -1,6 +1,6 @@
 # Buff — Easy — Windows
 
-**Date:** 29 July 2026
+**Date:** 28 July 2026
 
 ---
 
