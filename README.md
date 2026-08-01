@@ -26,7 +26,7 @@ Alongside the boxes, I write up the vulnerabilities themselves, explorations of 
 
 ## 📦 Boxes
 
-**16 owned** · 8 Linux · 7 Windows · 1 Solaris
+**17 owned** · 9 Linux · 7 Windows · 1 Solaris
 
 | # | Box | Platform | OS | Difficulty | Status | Date |
 | --- | --- | -------- | --- | ---------- | ------ | ---- |
@@ -46,3 +46,4 @@ Alongside the boxes, I write up the vulnerabilities themselves, explorations of 
 | 14 | [Remote](writeups/Remote.md) | HackTheBox | Windows | Easy | ✅ Owned | July 10, 2026 |
 | 15 | [Devvortex](writeups/Devvortex.md) | HackTheBox | Linux | Easy | ✅ Owned | July 27, 2026 |
 | 16 | [Buff](writeups/Buff.md) | HackTheBox | Windows | Easy | ✅ Owned | July 28, 2026 |
+| 17 | [Irked](writeups/Irked.md) | HackTheBox | Linux | Easy | ✅ Owned | July 31, 2026 |
