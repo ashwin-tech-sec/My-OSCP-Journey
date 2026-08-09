@@ -26,7 +26,7 @@ Alongside the boxes, I write up the vulnerabilities themselves, explorations of 
 
 ## 📦 Boxes
 
-**23 owned** · 12 Linux · 10 Windows · 1 Solaris · 19 Easy · 4 Medium
+**24 owned** · 12 Linux · 11 Windows · 1 Solaris · 19 Easy · 5 Medium
 
 | # | Box | Platform | OS | Difficulty | Status | Date |
 | --- | --- | -------- | --- | ---------- | ------ | ---- |
@@ -53,3 +53,4 @@ Alongside the boxes, I write up the vulnerabilities themselves, explorations of 
 | 21 | [SolidState](writeups/SolidState.md) | HackTheBox | Linux | Medium | ✅ Owned | August 4, 2026 |
 | 22 | [Jeeves](writeups/Jeeves.md) | HackTheBox | Windows | Medium | ✅ Owned | August 5, 2026 |
 | 23 | [Pilgrimage](writeups/Pilgrimage.md) | HackTheBox | Linux | Easy | ✅ Owned | August 6, 2026 |
+| 24 | [Sniper](writeups/Sniper.md) | HackTheBox | Windows | Medium | ✅ Owned | August 7, 2026 |
