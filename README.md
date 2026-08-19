@@ -58,4 +58,4 @@ Alongside the boxes, I write up the vulnerabilities themselves, explorations of 
 | 26 | [Querier](writeups/Querier.md) | HackTheBox | Windows | Medium | ✅ Owned | August 9, 2026 |
 | 27 | [Cozyhosting](writeups/Cozyhosting.md) | HackTheBox | Linux | Easy | ✅ Owned | August 15, 2026 |
 | 28 | [Giddy](writeups/Giddy.md) | HackTheBox | Windows | Medium | ✅ Owned | August 16, 2026 |
-| 29 | [Tartarsauce](writeups/Tartarsauce.md) | HackTheBox | Linux | Medium | ✅ Owned | 2026-08-17 |
+| 29 | [Tartarsauce](writeups/Tartarsauce.md) | HackTheBox | Linux | Medium | ✅ Owned | August 17, 2026 |
