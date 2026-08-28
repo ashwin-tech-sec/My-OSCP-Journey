@@ -26,7 +26,7 @@ Alongside the boxes, I write up the vulnerabilities themselves, explorations of 
 
 ## 📦 Boxes
 
-**34 owned** · 16 Linux · 16 Windows · 1 Solaris · 1 FreeBSD · 22 Easy · 12 Medium
+**35 owned** · 17 Linux · 16 Windows · 1 Solaris · 1 FreeBSD · 23 Easy · 12 Medium
 
 | # | Box | Platform | OS | Difficulty | Status | Date |
 | --- | --- | -------- | --- | ---------- | ------ | ---- |
