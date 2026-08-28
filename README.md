@@ -64,3 +64,4 @@ Alongside the boxes, I write up the vulnerabilities themselves, explorations of 
 | 32 | [Access](writeups/Access.md) | HackTheBox | Windows | Easy | ✅ Owned | August 20, 2026 |
 | 33 | [Mentor](writeups/Mentor.md) | HackTheBox | Linux | Medium | ✅ Owned | August 21, 2026 |
 | 34 | [Mailing](writeups/Mailing.md) | HackTheBox | Windows | Easy | ✅ Owned | August 22, 2026 |
+| 35 | [Bashed](writeups/Bashed.md) | HackTheBox | Linux | Easy | ✅ Owned | August 23, 2026 |
