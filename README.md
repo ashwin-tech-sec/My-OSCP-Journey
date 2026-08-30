@@ -26,7 +26,7 @@ Alongside the boxes, I write up the vulnerabilities themselves, explorations of 
 
 ## 📦 Boxes
 
-**35 owned** · 17 Linux · 16 Windows · 1 Solaris · 1 FreeBSD · 23 Easy · 12 Medium
+**38 owned** · 19 Linux · 17 Windows · 1 Solaris · 1 FreeBSD · 26 Easy · 12 Medium
 
 | # | Box | Platform | OS | Difficulty | Status | Date |
 | --- | --- | -------- | --- | ---------- | ------ | ---- |
@@ -65,3 +65,6 @@ Alongside the boxes, I write up the vulnerabilities themselves, explorations of 
 | 33 | [Mentor](writeups/Mentor.md) | HackTheBox | Linux | Medium | ✅ Owned | August 21, 2026 |
 | 34 | [Mailing](writeups/Mailing.md) | HackTheBox | Windows | Easy | ✅ Owned | August 22, 2026 |
 | 35 | [Bashed](writeups/Bashed.md) | HackTheBox | Linux | Easy | ✅ Owned | August 23, 2026 |
+| 36 | [Heist](writeups/Heist.md) | HackTheBox | Windows | Easy | ✅ Owned | August 24, 2026 |
+| 37 | [Broker](writeups/Broker.md) | HackTheBox | Linux | Easy | ✅ Owned | August 25, 2026 |
+| 38 | [Analytics](writeups/Analytics.md) | HackTheBox | Linux | Easy | ✅ Owned | August 26, 2026 |
